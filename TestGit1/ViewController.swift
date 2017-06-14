@@ -22,7 +22,8 @@ class ViewController: UIViewController {
     // Feature 3
     print("Bye bye")
     
-    print("Au revoir")
+    print("Au revoir, à bientôt")
+    print("End")
   }
 
   override func didReceiveMemoryWarning() {
