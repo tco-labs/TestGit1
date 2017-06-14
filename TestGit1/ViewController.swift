@@ -18,6 +18,11 @@ class ViewController: UIViewController {
     
     // Feature 2
     print("How are you")
+    
+    // Feature 3
+    print("Bye bye")
+    
+    print("Au revoir")
   }
 
   override func didReceiveMemoryWarning() {
